@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YukMasak</string>
+    <string name="nomer">Nomer</string>
+    <string name="nama_masakan">Nama Masakan</string>
+    <string name="alat">Alat</string>
+    <string name="bahan">Bahan</string>
+    <string name="catatan_tambahan">Catatan tambahan</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="diary_resepku">DIARY RESEPKU</string>
+    <string name="textview">TextView</string>
+</resources>

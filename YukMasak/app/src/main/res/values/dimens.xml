@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_sub_title">18sp</dimen>
+    <dimen name="pad_bottom">10dp</dimen>
+    <dimen name="pad_left">20dp</dimen>
+    <dimen name="pad_right">20dp</dimen>
+    <dimen name="pad_top">10dp</dimen>
+    <dimen name="font_title">30sp</dimen>
+    <dimen name="font_big">36sp</dimen>
+    <dimen name="mrgn_top">20dp</dimen>
+    <dimen name="mrgn_top10">10dp</dimen>
+</resources>
